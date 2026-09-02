@@ -158,4 +158,31 @@ This repository forms part of my professional portfolio and demonstrates practic
 - Operations Coordinator
 - Customer Support Representative
 
+## Email Templates & Personalization
+
+Created reusable HubSpot CRM email templates to support consistent customer communication and follow-up processes.
+
+### Templates Created
+
+- New Client Follow-Up
+- Customer Support Follow-Up
+- Sales Proposal Follow-Up
+
+### Skills Demonstrated
+
+- HubSpot CRM
+- Email Template Management
+- Personalization Tokens
+- Customer Follow-Up
+- Customer Support
+- Sales Operations
+- CRM Data Management
+- Communication Process Optimization
+
+### Personalization
+
+Implemented HubSpot personalization tokens to dynamically populate contact information within email templates.
+
+![HubSpot Email Templates & Personalization](HubSpot%20Email%20Templates%20%26%20Personalization.png)  
+
 Thank you for visiting my repository!
