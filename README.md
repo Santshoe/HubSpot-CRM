@@ -185,4 +185,33 @@ Implemented HubSpot personalization tokens to dynamically populate contact infor
 
 ![HubSpot Email Templates & Personalization](HubSpot%20Email%20Templates%20%26%20Personalization.png)  
 
+## CRM Segmentation & Lists
+
+Created and managed HubSpot CRM segments to organize contacts and opportunities based on business criteria.
+
+### Segments Created
+
+* Customers
+* Open Opportunities
+* High Priority Leads
+* Clients Requiring Follow-Up
+* High Priority Clients
+
+### Skills Demonstrated
+
+* HubSpot CRM
+* CRM Data Management
+* Contact Segmentation
+* Lead Management
+* Customer Management
+* Sales Operations
+* Follow-Up Management
+* CRM Organization
+
+### Project Objective
+
+The segmentation process was used to organize CRM records into targeted groups, making it easier to identify customers, prioritize leads, manage follow-ups, and support sales and customer service activities.
+
+![HubSpot CRM Segmentation & Lists](HubSpot%20CRM%20%E2%80%94%20Segmentation%20%26%20Lists.png)
+
 Thank you for visiting my repository!
