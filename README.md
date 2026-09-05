@@ -214,4 +214,38 @@ The segmentation process was used to organize CRM records into targeted groups, 
 
 ![HubSpot CRM Segmentation & Lists](HubSpot%20CRM%20%E2%80%94%20Segmentation%20%26%20Lists.png)
 
+## CRM Data Import & Data Quality Management
+
+Completed a hands-on HubSpot CRM data management project focused on importing, organizing, validating, and maintaining contact records.
+
+### Tasks Completed
+
+- Created structured contact data using Excel
+- Imported contact records into HubSpot
+- Mapped spreadsheet fields to HubSpot CRM properties
+- Created and associated company records
+- Verified imported contact information
+- Used CRM column filters to identify missing data
+- Reviewed phone number and company information
+- Checked records for data completeness and consistency
+- Organized CRM records for easier management
+
+### Skills Demonstrated
+
+- HubSpot CRM
+- CRM Data Import
+- Excel Data Preparation
+- Contact Management
+- Company Management
+- Data Quality Management
+- Data Validation
+- CRM Data Cleaning
+- Filtering & Saved Views
+- CRM Organization
+
+### Portfolio Evidence
+
+![HubSpot Contact Import](HubSpot%20CRM%20%E2%80%94%20Contact%20Import%20%26%20Data%20Management.png)
+
+![HubSpot Data Quality](HubSpot%20CRM%20%E2%80%94%20Data%20Quality%20%26%20Contact%20Cleanup.png)
 Thank you for visiting my repository!
