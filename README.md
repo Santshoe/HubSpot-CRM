@@ -248,4 +248,46 @@ Completed a hands-on HubSpot CRM data management project focused on importing, o
 ![HubSpot Contact Import](HubSpot%20CRM%20%E2%80%94%20Contact%20Import%20%26%20Data%20Management.png)
 
 ![HubSpot Data Quality](HubSpot%20CRM%20%E2%80%94%20Data%20Quality%20%26%20Contact%20Cleanup.png)
+
+## End-to-End CRM Client Management Capstone
+
+Completed a simulated end-to-end client management workflow using HubSpot CRM.
+
+### Workflow Completed
+
+- Created and managed a client contact
+- Created and associated a company
+- Recorded client requirements
+- Logged calls, notes, and follow-up activities
+- Created and managed a sales opportunity
+- Progressed a deal through multiple pipeline stages
+- Created a client follow-up task
+- Scheduled a client consultation
+- Progressed the deal to Closed Won
+- Updated the client lifecycle stage to Customer
+- Created and managed a customer support ticket
+- Progressed the support ticket from New to Closed
+
+### Skills Demonstrated
+
+- HubSpot CRM
+- Contact Management
+- Company Management
+- Deal Pipeline Management
+- Customer Support
+- Ticket Management
+- Task Management
+- CRM Activity Logging
+- Meeting Scheduling
+- Customer Lifecycle Management
+- Sales Operations
+- Follow-Up Management
+
+### Project Objective
+
+Demonstrate the ability to manage a complete client journey from initial inquiry through sales conversion and post-sale customer support using a CRM system.
+
+### Portfolio Evidence
+
+![HubSpot End-to-End CRM Capstone](HubSpot%20CRM%20%E2%80%94%20End-to-End%20Client%20Management%20%E2%80%94%20Support%20Ticket.png)
 Thank you for visiting my repository!
