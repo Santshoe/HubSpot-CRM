@@ -290,4 +290,109 @@ Demonstrate the ability to manage a complete client journey from initial inquiry
 ### Portfolio Evidence
 
 ![HubSpot End-to-End CRM Capstone](HubSpot%20CRM%20%E2%80%94%20End-to-End%20Client%20Management%20%E2%80%94%20Support%20Ticket.png)
+
+# HubSpot CRM & Customer Support Operations Portfolio
+
+## Overview
+
+A hands-on HubSpot CRM portfolio project demonstrating practical
+Customer Support, CRM Administration, Sales Operations, Ticket
+Management, Workflow Automation, Reporting, and Data Quality skills.
+
+This project was created as a practical learning and portfolio
+environment using fictional customer and company data.
+
+## CRM & Sales Operations
+
+- Contact and company management
+- Lifecycle stages
+- Deal pipeline management
+- Sales follow-up tasks
+- Meeting scheduling
+- Email templates
+- Lists and segmentation
+- Sales reporting and dashboards
+
+## Customer Support Operations
+
+- Ticket pipeline configuration
+- Ticket creation and triage
+- Ticket prioritization
+- Ticket ownership and queue management
+- SLA and response-time thinking
+- Backlog management
+- Escalation management
+- Customer support macros
+- Support snippets
+- Ticket resolution and closure
+
+## Workflow Automation
+
+### High-Priority Ticket Follow-Up
+
+Created a ticket-based workflow that identifies high-priority
+support tickets and creates a follow-up task for the ticket owner.
+
+### Ticket Routing by Issue Type
+
+Created a ticket routing workflow using a custom Issue Type property.
+
+Issue Types:
+
+- Account Access
+- Billing
+- Technical
+- Product Feedback
+- General Support
+
+The workflow branches tickets according to their Issue Type and
+routes each category through the appropriate workflow path.
+
+## Reporting & Analytics
+
+Created CRM dashboards and reports to monitor:
+
+- Ticket volume
+- Ticket priority
+- Deal pipeline
+- Sales activity
+- Support workload
+- Follow-up requirements
+
+## CRM Data Quality
+
+Practiced:
+
+- Identifying incomplete records
+- Correcting missing information
+- Reviewing duplicate records
+- Standardizing CRM data
+- Maintaining accurate lifecycle and company information
+
+## Capstone Project
+
+### Carter Business Solutions
+
+Created a fictional end-to-end customer journey covering:
+
+Contact → Deal → Meeting → Customer → Support Ticket → Resolution
+
+The project demonstrates how CRM, sales, customer support and
+workflow automation can work together in one system.
+
+## Tools
+
+- HubSpot CRM
+- HubSpot Workflows
+- HubSpot Tickets
+- HubSpot Reporting
+- HubSpot Breeze AI
+- Microsoft Excel
+- Google Sheets
+
+## Portfolio Disclaimer
+
+All customer, company, deal and ticket information used in this
+project is fictional and created for learning and portfolio
+demonstration purposes.
 Thank you for visiting my repository!
