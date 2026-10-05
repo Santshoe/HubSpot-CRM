@@ -273,7 +273,7 @@ Demonstrate the ability to manage a fictional client journey across CRM, sales o
 
 ---
 
-## 📸 Portfolio Evidence
+## 📸 Portfolio Evidence.
 
 Explore the hands-on work and supporting screenshots:
 
