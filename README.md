@@ -275,19 +275,14 @@ Demonstrate the ability to manage a fictional client journey across CRM, sales o
 
 ## 📸 Portfolio Evidence
 
-Screenshots in this repository may include:
+Explore the hands-on work and supporting screenshots:
 
-- Contact and company records
-- Deal pipeline and deal management
-- Customer support tickets
-- Ticket triage
-- CRM tasks
-- Email templates
-- CRM lists and segmentation
-- CRM data quality
-- Reporting and dashboards
-- CRM capstone
-- AI-assisted workflow practice
+- [CRM & Sales Operations](Screenshots/Crm%20-%20sales/)
+- [Customer Support Operations](Screenshots/Customer%20support/)
+- [CRM Data Quality](Screenshots/Data%20Quality/)
+- [Reporting & Analytics](Screenshots/Reporting/)
+- [Workflow Automation Practice](Screenshots/Workflow%20practice/)
+- [End-to-End CRM Capstone](Screenshots/Capstone/)
 
 ---
 
