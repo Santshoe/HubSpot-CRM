@@ -273,7 +273,7 @@ Demonstrate the ability to manage a fictional client journey across CRM, sales o
 
 ---
 
-## 📸 Portfolio Evidence.
+## 📸 Portfolio Evidence
 
 Explore the hands-on work and supporting screenshots:
 
@@ -338,6 +338,52 @@ My broader technical learning includes:
 - Operations Assistant
 - Administrative Assistant
 - Customer Service Assistant
+
+  # Customer Support KPI Analysis — HubSpot CRM
+
+## Project Overview
+
+This exercise used fictional HubSpot CRM ticket data to practise analysing ticket status, priority distribution, and support queue management.
+
+## Ticket Status Analysis
+
+* Total tickets: 15
+* Closed: 7 (46.7%)
+* Resolved: 2 (13.3%)
+* Resolved-or-closed ticket share: 9 of 15 (60%)
+
+## Ticket Priority Analysis
+
+* High: 5 (33.3%)
+* Urgent: 4 (26.7%)
+* Medium: 4 (26.7%)
+* Low: 2 (13.3%)
+
+## Key Finding
+
+Nine of the 15 tickets (60%) were classified as High or Urgent priority. This indicates that the simulated queue would benefit from careful triage, clear ownership, and regular follow-up.
+
+## Recommended Actions
+
+1. Review urgent tickets first.
+2. Confirm that high-priority tickets have an assigned owner and an appropriate follow-up task.
+3. Monitor unresolved tickets and check for overdue cases.
+4. Track ticket response and resolution times when reliable data is available.
+5. Review ticket status and priority reports regularly.
+
+## Tools and Skills Practised
+
+* HubSpot CRM reporting
+* Ticket status analysis
+* Priority distribution analysis
+* KPI calculation
+* Support queue triage
+* Data-informed operational recommendations
+
+## Disclaimer
+
+All records used in this exercise are fictional and were created for portfolio practice. The results do not represent actual customer support performance.
+
 
 ---
 
